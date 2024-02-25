@@ -3,11 +3,11 @@
 
 ## Contains:
 * 3 text files
-* 2 jupyter notebooks
-* 1 python file
+* 2 Jupyter Notebooks
+* 1 Python file
 
 ## Future uses:
-* practice using different braches
-* pracitice using test files using testbook
+* practice using different branches
+* practice using test files with testbook
 
 [Link to video reference for testbook](https://youtu.be/4BFytJoOmOA?si=W7jf6tJrvEBh4WBE) 
