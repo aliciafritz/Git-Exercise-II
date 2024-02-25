@@ -1,4 +1,4 @@
-# Read me file for Git-Exericse-II 
+# Read me file for Git-Exercise-II 
 # CAS 502 -  Spring 2024 Semester
 
 ## Contains:
